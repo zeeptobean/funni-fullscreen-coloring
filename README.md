@@ -18,3 +18,8 @@ The code runs on 4 threads:
 A global hotkey `Ctrl+Alt+E` is also installed to stop the program immediately. Note that the drawn rectangle would still on the screen, a small refresh (e.g. switch to another progeam) would bring everything back to normal
 
 Due to the fact the program draw directly to the screen, anything graphics that update in process would still be visible as well, same with the mouse pointer (this could be a feature request). High DPI & anything-not-but-not 100% scaling would also break
+
+## Demo (from first build May 6 2024)
+
+https://github.com/user-attachments/assets/f6f02e5a-23cc-4a22-9e18-36335dcf8385
+
